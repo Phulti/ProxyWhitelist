@@ -1,0 +1,6 @@
+name: ProxyWhitelist
+main: de.philippulti.proxywhitelist.ProxyWhitelistPlugin
+version: 1.0-SNAPSHOT
+description: Proxywhitelist system for Minecraft networks
+author: philippulti
+api-version: 1.19
